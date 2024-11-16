@@ -63,3 +63,4 @@ IDE:
 
 ## Autores e Colaboradores
 Lavínia Fahning: Desenvolvimento do modelo de Regressão Linear, análise de dados e documentação.
+Jéssica Lima: Desenvolvimento do modelo de Regressão Linear.
