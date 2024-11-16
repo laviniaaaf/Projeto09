@@ -62,5 +62,5 @@ IDE:
 - Google Colab: Utilizada para executar e desenvolver o projeto.
 
 ## Autores e Colaboradores
-Lavínia Fahning: Desenvolvimento do modelo de Regressão Linear, análise de dados e documentação.
-Jéssica Lima: Desenvolvimento do modelo de Regressão Linear.
+- Lavínia Fahning: Desenvolvimento do modelo de Regressão Linear, análise de dados e documentação.
+- Jéssica Lima: Desenvolvimento do modelo de Regressão Linear.
